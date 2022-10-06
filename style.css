@@ -1,0 +1,13 @@
+h1 {
+    font-family: Courier New, monospace;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-family: Gill Sans, sans-serif;
+}
+
+img {
+    border: 5px solid #fcca03;
+}
